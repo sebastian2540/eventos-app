@@ -1,8 +1,10 @@
+import EventoForm from "./layouts/components/pages/EventoForm"
+
 function App() {
   
   return (
     <>
-      <p>Prueba</p>
+      <EventoForm />
     </>
   )
 }

@@ -1,0 +1,6 @@
+body {
+    /* background-image: url('https://img.freepik.com/foto-gratis/luz-brillante-escenario-ilumina-entusiastas-fanaticos-rock-generados-ia_188544-37983.jpg?t=st=1714948665~exp=1714952265~hmac=37e3def6678fd0c00c6d9a4d4820f4094db25d821a717f837797958f0df405f3&w=1380'); */    
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    background-image: url('./src/layouts/assets/image-body.jpg');    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
