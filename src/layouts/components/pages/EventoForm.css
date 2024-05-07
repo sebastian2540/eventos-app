@@ -6,11 +6,11 @@ h1 {
 }
 
 h1 b {
-    color: white;
+  color: white;
 }
 
 h1 strong {
-    color: #ee2b7b;
+  color: #ee2b7b;
 }
 
 /* Estilos generales para el formulario */
@@ -31,7 +31,11 @@ label {
 }
 
 label img {
-    width: 30px;
+  width: 30px;
+}
+
+label b {
+  color: red;
 }
 
 /* Estilos para los inputs y textarea */
@@ -46,10 +50,21 @@ textarea {
 }
 
 /* Estilos para el botón */
-button {
+.button-register {
   border: none;
   color: #fff;
   background-image: linear-gradient(30deg, #0400ff, #4ce3f7);
+  border-radius: 20px;
+  background-size: 100% auto;
+  font-size: 17px;
+  padding: 0.6em 1.5em;
+  margin: 3px;
+}
+
+.button-show {
+  border: none;
+  color: #fff;
+  background-image: linear-gradient(30deg, #ee2b7b, #f74cbeb4);
   border-radius: 20px;
   background-size: 100% auto;
   font-size: 17px;
