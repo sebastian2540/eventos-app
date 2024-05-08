@@ -1,3 +1,25 @@
-<div align="center">
-  <img height="150" src="https://img.freepik.com/foto-gratis/vista-trasera-fanaticos-emocionados-divirtiendose-festival-musica-tomando-fotos-escenario-sus-telefonos-inteligentes-copiar-espacio_637285-607.jpg?t=st=1715128413~exp=1715132013~hmac=0108e8e97d74669c6d745b7bce7dfe66b4353290022a18034d2c91ce92159c53&w=1380"  />
-</div>
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+####
+
+# Dependencia Endpoint
+Ejecutar el comando npm i react-router-dom
+
+# node_modules
+Ejecutar el comando npm i o npm install
+
+# Servidor Json Server
+Ejercutar el comando npm run json
+
+# Servidor React
+Ejercutar el comando npm run dev
+
+# Repositorio
+[text](https://github.com/sebastian2540/eventos-app.git)
