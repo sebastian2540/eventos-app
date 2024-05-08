@@ -64,7 +64,7 @@ const EventoForm = () => {
           Fecha del Evento <b>*</b>
         </label>
         <input
-          type="date"
+          type="datetime-local"
           name=""
           id=""
           value={getFecha}

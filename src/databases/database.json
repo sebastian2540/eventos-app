@@ -1,3 +1,39 @@
 {
-  "eventos": []
+  "eventos": [
+    {
+      "id": "3ec7",
+      "getNombre": "LAS LEYENDAS DE LA SALSA MEDELLIN  ",
+      "getFecha": "2024-07-06T15:00",
+      "getUbicacion": "ESTADIO ATANASIO GIRARDOT ",
+      "getDescripcion": "Estadio Atanasio Girardot, Carrera 74, Laureles - Estadio, Medellín, Antioquia, Colombia "
+    },
+    {
+      "id": "187a",
+      "getNombre": "ROCK & POP",
+      "getFecha": "2024-07-12T18:00",
+      "getUbicacion": "ESTADIO NEMESIO CAMACHO EL CAMPIN",
+      "getDescripcion": "Estadio Nemesio Camacho El Campín, Carrera 30 y Calle 57, Bogotá, Colombia\n"
+    },
+    {
+      "id": "908f",
+      "getNombre": "LAS LEYENDAS DE LA SALSA BOGOTA",
+      "getFecha": "2024-07-13T18:00",
+      "getUbicacion": " ESTADIO NEMESIO CAMACHO EL CAMPIN",
+      "getDescripcion": "Estadio Nemesio Camacho El Campín, Carrera 30 y Calle 57, Bogotá, Colombia\n"
+    },
+    {
+      "id": "e7bd",
+      "getNombre": " CONCIERTO 60 AÑOS DEL TRÍO AMERICA Y HOMENAJE A LAS MADRES",
+      "getFecha": "2024-05-09T19:30",
+      "getUbicacion": "Teatro Metropolitano José Gutiérrez Gómez ",
+      "getDescripcion": "El Trío América fue fundado en Medellín en 1964 por el maestro Oscar Velásquez,\n\nEl maestro Oscar Velásquez, nacido en Medellín en el año de 1935, recuerda que desde su niñez, sentía una inmensa pasión por la música; y por sus abuelos y sus padres, ancestros musicales del maestro Oscar, quienes siempre apoyaron este talento, tenemos hoy en nuestro medio, uno de los más importantes tríos que ha hecho historia en la música romántica de Colombia y de muchos lugares del mundo.\n\nEl maestro Oscar Velásquez ha tenido un gran recorrido a nivel musical, ya que a los 18 años grabó su primer disco. En el año de 1950 trabajó con Noel Petro, el Nono Narváez y Tito Ávila. Desde el año de 1959 integró grupos como: el trío los Gallardos,  el Trío Amistad y el Trío Ideal.\n\nEn el año de 1970 (ya conformado el Trío América), se grabaron éxitos musicales del Trío América entre los cuales se encuentra: El Carbón que ha sido Brasa, Ratos Felices, Me Estas Haciendo Falta, etc. Posteriormente en el año 75, grabaron otro de sus éxitos: Cuando voy por la calle, Para que Sufrir, Te amaré te amaré, etc.\n\nEntre sus 23 discos de larga duración y también 6 CD’S, se encuentran paginas de gran aceptación como El Camino de la Vida (en su versión original), Mi Mejor Amigo, Cuando Voy Por La Calle, Mi Niña Bonita, Yo Nací Para Ti, La Mujer que Quiero, Llévame de la Mano… y muchas mas canciones, que hasta el momento, superan las 260.\n\nPara la Empresa Disquera DISCOS OSNEL de Medellín, se grabó en el 2002, un CD de 16 canciones, en homenaje al  compañero desaparecido trágicamente, titulado: CUANDO UN AMIGO SE VA."
+    },
+    {
+      "id": "9db9",
+      "getNombre": " BOOGIE NIGHTS - KOOL AND THE GAND Y THE VILLAGE PEOPLE ",
+      "getFecha": "2024-05-15T19:00",
+      "getUbicacion": " Movistar Arena Bogota",
+      "getDescripcion": "Boogie Nights W una celebración con dos de los exponentes más importantes de la música disco: Kool and The Gang y The Village People. Estos iconos de los 70 y 80, llegan el próximo 15 de mayo al Movistar Arena, vivirás  una noche de hits con YMCA, Macho Man, Go West, Ladies Nagth, Jungle Boogie, Fresh, Get Down on it, Celebration y muchos más.\n\nDesde sus inicios en 1964, Kool & The Gang ha obtenido dos premios Grammy, siete American Music Awards, un premio BET Soul Train Lifetime Achievement Award y una estrella en el Paseo de la Fama de Hollywood. Siendo su fecha en Bogotá parte de la gran celebración de 60 años de carrera.\n\nTBL LIVE ha preparado para esta noche diferentes experiencias que convertirán al Movistar Arena en una gran Disco para recordar y bailar.\n"
+    }
+  ]
 }
